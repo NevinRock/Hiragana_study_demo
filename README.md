@@ -1,2 +1,2 @@
-A demo to help memoriznig japanese hiragana
+A demo to help memorise japanese hiragana
 
